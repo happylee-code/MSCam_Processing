@@ -1,0 +1,671 @@
+[2022-04-13T15:57:39.742942 13524] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:39.742942 13524] Config: (default) base_dir = 
+[2022-04-13T15:57:39.742942 13524] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:39.742942 13524] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:39.742942 13524] Config: (default) compiler = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:39.742942 13524] Config: (default) compression = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) compression_level = 6
+[2022-04-13T15:57:39.742942 13524] Config: (default) cpp_extension = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) debug = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) depend_mode = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) direct_mode = true
+[2022-04-13T15:57:39.742942 13524] Config: (default) disable = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) hard_link = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) hash_dir = true
+[2022-04-13T15:57:39.742942 13524] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:39.742942 13524] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:39.742942 13524] Config: (default) max_files = 0
+[2022-04-13T15:57:39.742942 13524] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:39.742942 13524] Config: (default) path = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) prefix_command = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) read_only = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) read_only_direct = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) recache = false
+[2022-04-13T15:57:39.742942 13524] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:39.742942 13524] Config: (default) sloppiness = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) stats = true
+[2022-04-13T15:57:39.742942 13524] Config: (default) temporary_dir = 
+[2022-04-13T15:57:39.742942 13524] Config: (default) umask = 
+[2022-04-13T15:57:39.745941 13524] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2022-04-13T15:57:39.745941 13524] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:39.745941 13524] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:39.746940 13524] Source file: __helpers.c
+[2022-04-13T15:57:39.746940 13524] Object file: __helpers.o
+[2022-04-13T15:57:39.747940 13524] Trying direct lookup
+[2022-04-13T15:57:39.747940 13524] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/8/8a5a2116ec8bf4eb0f11be4473bd22-70309.manifest
+[2022-04-13T15:57:39.749938 14056] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:39.749938 14056] Config: (default) base_dir = 
+[2022-04-13T15:57:39.749938 14056] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:39.749938 14056] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:39.749938 14056] Config: (default) compiler = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:39.749938 14056] Config: (default) compression = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) compression_level = 6
+[2022-04-13T15:57:39.749938 14056] Config: (default) cpp_extension = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) debug = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) depend_mode = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) direct_mode = true
+[2022-04-13T15:57:39.749938 14056] Config: (default) disable = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) hard_link = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) hash_dir = true
+[2022-04-13T15:57:39.749938 14056] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:39.749938 14056] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:39.749938 14056] Config: (default) max_files = 0
+[2022-04-13T15:57:39.749938 14056] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:39.749938 14056] Config: (default) path = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) prefix_command = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) read_only = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) read_only_direct = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) recache = false
+[2022-04-13T15:57:39.749938 14056] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:39.749938 14056] Config: (default) sloppiness = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) stats = true
+[2022-04-13T15:57:39.749938 14056] Config: (default) temporary_dir = 
+[2022-04-13T15:57:39.749938 14056] Config: (default) umask = 
+[2022-04-13T15:57:39.750938 14056] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-04-13T15:57:39.750938 14056] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:39.751937 14056] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:39.752937 14056] Source file: __constants.c
+[2022-04-13T15:57:39.752937 14056] Object file: __constants.o
+[2022-04-13T15:57:39.752937 14056] Trying direct lookup
+[2022-04-13T15:57:39.753937 14056] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/1bcb1d55df4556545dc3916b7deab0-5215.manifest
+[2022-04-13T15:57:39.783921 712  ] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:39.783921 712  ] Config: (default) base_dir = 
+[2022-04-13T15:57:39.783921 712  ] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:39.783921 712  ] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:39.783921 712  ] Config: (default) compiler = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:39.783921 712  ] Config: (default) compression = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) compression_level = 6
+[2022-04-13T15:57:39.783921 712  ] Config: (default) cpp_extension = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) debug = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) depend_mode = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) direct_mode = true
+[2022-04-13T15:57:39.783921 712  ] Config: (default) disable = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) hard_link = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) hash_dir = true
+[2022-04-13T15:57:39.783921 712  ] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:39.783921 712  ] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:39.783921 712  ] Config: (default) max_files = 0
+[2022-04-13T15:57:39.783921 712  ] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:39.783921 712  ] Config: (default) path = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) prefix_command = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) read_only = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) read_only_direct = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) recache = false
+[2022-04-13T15:57:39.783921 712  ] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:39.783921 712  ] Config: (default) sloppiness = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) stats = true
+[2022-04-13T15:57:39.783921 712  ] Config: (default) temporary_dir = 
+[2022-04-13T15:57:39.783921 712  ] Config: (default) umask = 
+[2022-04-13T15:57:39.785920 712  ] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-04-13T15:57:39.785920 712  ] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:39.785920 712  ] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:39.786922 712  ] Source file: __loader.c
+[2022-04-13T15:57:39.787918 712  ] Object file: __loader.o
+[2022-04-13T15:57:39.787918 712  ] Trying direct lookup
+[2022-04-13T15:57:39.790919 712  ] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/d/0e4e3ec60e2c8b8ef5c77af37da172-118306.manifest
+[2022-04-13T15:57:39.818900 12364] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:39.818900 12364] Config: (default) base_dir = 
+[2022-04-13T15:57:39.818900 12364] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:39.818900 12364] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:39.818900 12364] Config: (default) compiler = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:39.818900 12364] Config: (default) compression = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) compression_level = 6
+[2022-04-13T15:57:39.818900 12364] Config: (default) cpp_extension = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) debug = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) depend_mode = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) direct_mode = true
+[2022-04-13T15:57:39.818900 12364] Config: (default) disable = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) hard_link = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) hash_dir = true
+[2022-04-13T15:57:39.818900 12364] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:39.818900 12364] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:39.818900 12364] Config: (default) max_files = 0
+[2022-04-13T15:57:39.818900 12364] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:39.818900 12364] Config: (default) path = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) prefix_command = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) read_only = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) read_only_direct = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) recache = false
+[2022-04-13T15:57:39.818900 12364] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:39.818900 12364] Config: (default) sloppiness = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) stats = true
+[2022-04-13T15:57:39.818900 12364] Config: (default) temporary_dir = 
+[2022-04-13T15:57:39.818900 12364] Config: (default) umask = 
+[2022-04-13T15:57:39.819900 12364] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o module.PyQt5-preLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src module.PyQt5-preLoad.c
+[2022-04-13T15:57:39.819900 12364] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:39.819900 12364] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:39.820898 12364] Source file: module.PyQt5-preLoad.c
+[2022-04-13T15:57:39.820898 12364] Object file: module.PyQt5-preLoad.o
+[2022-04-13T15:57:39.820898 12364] Trying direct lookup
+[2022-04-13T15:57:39.821897 12364] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/f/0afda0027308f0361d991eeee5658f-27006.manifest
+[2022-04-13T15:57:40.223667 13524] Got object file hash from manifest
+[2022-04-13T15:57:40.224667 12364] Got object file hash from manifest
+[2022-04-13T15:57:40.224667 14056] Got object file hash from manifest
+[2022-04-13T15:57:40.226665 712  ] Got object file hash from manifest
+[2022-04-13T15:57:40.235662 13524] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/0/ebd33c52b465156ed5ab029c22d498-593595.o to __helpers.o (uncompressed)
+[2022-04-13T15:57:40.236661 12364] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/4a2aa158e80f79a6ac21fc476795ca-560777.o to module.PyQt5-preLoad.o (uncompressed)
+[2022-04-13T15:57:40.237660 12364] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/4a2aa158e80f79a6ac21fc476795ca-560777.o -> module.PyQt5-preLoad.o
+[2022-04-13T15:57:40.237660 14056] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/2470df2b87afdc99c9e9f7ac077ad5-544584.o to __constants.o (uncompressed)
+[2022-04-13T15:57:40.239660 12364] Succeeded getting cached result
+[2022-04-13T15:57:40.239660 12364] Result: cache hit (direct)
+[2022-04-13T15:57:40.241662 13524] Succeeded getting cached result
+[2022-04-13T15:57:40.241662 13524] Result: cache hit (direct)
+[2022-04-13T15:57:40.243657 14056] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/2470df2b87afdc99c9e9f7ac077ad5-544584.o -> __constants.o
+[2022-04-13T15:57:40.251653 12364] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-04-13T15:57:40.252652 13524] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-04-13T15:57:40.258648 712  ] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/4/35df181745251be9a5c23b4c71b3d6-438187.o to __loader.o (uncompressed)
+[2022-04-13T15:57:40.259647 14056] Succeeded getting cached result
+[2022-04-13T15:57:40.259647 14056] Result: cache hit (direct)
+[2022-04-13T15:57:40.259647 712  ] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/4/35df181745251be9a5c23b4c71b3d6-438187.o -> __loader.o
+[2022-04-13T15:57:40.260647 712  ] Succeeded getting cached result
+[2022-04-13T15:57:40.260647 712  ] Result: cache hit (direct)
+[2022-04-13T15:57:40.263646 14056] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-04-13T15:57:40.263646 712  ] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-04-13T15:57:40.290632 13524] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-04-13T15:57:40.293630 712  ] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-04-13T15:57:40.296628 12364] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-04-13T15:57:40.302623 14056] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-04-13T15:57:40.410560 12704] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:40.410560 12704] Config: (default) base_dir = 
+[2022-04-13T15:57:40.410560 12704] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:40.410560 12704] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:40.410560 12704] Config: (default) compiler = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:40.410560 12704] Config: (default) compression = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) compression_level = 6
+[2022-04-13T15:57:40.410560 12704] Config: (default) cpp_extension = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) debug = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) depend_mode = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) direct_mode = true
+[2022-04-13T15:57:40.410560 12704] Config: (default) disable = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) hard_link = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) hash_dir = true
+[2022-04-13T15:57:40.410560 12704] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:40.410560 12704] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:40.410560 12704] Config: (default) max_files = 0
+[2022-04-13T15:57:40.410560 12704] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:40.410560 12704] Config: (default) path = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) prefix_command = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) read_only = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) read_only_direct = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) recache = false
+[2022-04-13T15:57:40.410560 12704] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:40.410560 12704] Config: (default) sloppiness = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) stats = true
+[2022-04-13T15:57:40.410560 12704] Config: (default) temporary_dir = 
+[2022-04-13T15:57:40.410560 12704] Config: (default) umask = 
+[2022-04-13T15:57:40.411560 12704] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o module.PyQt5.QtCore-postLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src module.PyQt5.QtCore-postLoad.c
+[2022-04-13T15:57:40.411560 12704] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:40.412561 12704] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:40.413562 12704] Source file: module.PyQt5.QtCore-postLoad.c
+[2022-04-13T15:57:40.413562 12704] Object file: module.PyQt5.QtCore-postLoad.o
+[2022-04-13T15:57:40.413562 12704] Trying direct lookup
+[2022-04-13T15:57:40.414559 12704] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/1/1f26a83ee37d0ed0926f3674feb6dd-35304.manifest
+[2022-04-13T15:57:40.457534 15232] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:40.457534 15232] Config: (default) base_dir = 
+[2022-04-13T15:57:40.457534 15232] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:40.457534 15232] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:40.457534 15232] Config: (default) compiler = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:40.457534 15232] Config: (default) compression = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) compression_level = 6
+[2022-04-13T15:57:40.457534 15232] Config: (default) cpp_extension = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) debug = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) depend_mode = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) direct_mode = true
+[2022-04-13T15:57:40.457534 15232] Config: (default) disable = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) hard_link = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) hash_dir = true
+[2022-04-13T15:57:40.457534 15232] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:40.457534 15232] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:40.457534 15232] Config: (default) max_files = 0
+[2022-04-13T15:57:40.457534 15232] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:40.457534 15232] Config: (default) path = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) prefix_command = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) read_only = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) read_only_direct = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) recache = false
+[2022-04-13T15:57:40.457534 15232] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:40.457534 15232] Config: (default) sloppiness = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) stats = true
+[2022-04-13T15:57:40.457534 15232] Config: (default) temporary_dir = 
+[2022-04-13T15:57:40.457534 15232] Config: (default) umask = 
+[2022-04-13T15:57:40.458534 15232] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o module.PyQt5.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src module.PyQt5.c
+[2022-04-13T15:57:40.458534 15232] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:40.459532 15232] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:40.460532 15232] Source file: module.PyQt5.c
+[2022-04-13T15:57:40.460532 15232] Object file: module.PyQt5.o
+[2022-04-13T15:57:40.460532 15232] Trying direct lookup
+[2022-04-13T15:57:40.462532 15232] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/c/d94617c9b425d18e7dd893ed2c572a-70304.manifest
+[2022-04-13T15:57:40.486522 10396] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:40.486522 10396] Config: (default) base_dir = 
+[2022-04-13T15:57:40.486522 10396] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:40.486522 10396] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:40.486522 10396] Config: (default) compiler = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:40.486522 10396] Config: (default) compression = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) compression_level = 6
+[2022-04-13T15:57:40.486522 10396] Config: (default) cpp_extension = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) debug = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) depend_mode = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) direct_mode = true
+[2022-04-13T15:57:40.486522 10396] Config: (default) disable = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) hard_link = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) hash_dir = true
+[2022-04-13T15:57:40.486522 10396] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:40.486522 10396] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:40.486522 10396] Config: (default) max_files = 0
+[2022-04-13T15:57:40.486522 10396] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:40.486522 10396] Config: (default) path = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) prefix_command = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) read_only = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) read_only_direct = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) recache = false
+[2022-04-13T15:57:40.486522 10396] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:40.486522 10396] Config: (default) sloppiness = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) stats = true
+[2022-04-13T15:57:40.486522 10396] Config: (default) temporary_dir = 
+[2022-04-13T15:57:40.486522 10396] Config: (default) umask = 
+[2022-04-13T15:57:40.487519 10396] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2022-04-13T15:57:40.487519 10396] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:40.488517 10396] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:40.488517 10396] Source file: module.__main__.c
+[2022-04-13T15:57:40.488517 10396] Object file: module.__main__.o
+[2022-04-13T15:57:40.489517 10396] Trying direct lookup
+[2022-04-13T15:57:40.490517 10396] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/3/003cf640258bff0f55a6739970473d-28550.manifest
+[2022-04-13T15:57:40.601452 12704] Got object file hash from manifest
+[2022-04-13T15:57:40.616443 12704] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/c701f6e668a82b764c2faa764e9623-574693.o to module.PyQt5.QtCore-postLoad.o (uncompressed)
+[2022-04-13T15:57:40.617442 12704] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/c701f6e668a82b764c2faa764e9623-574693.o -> module.PyQt5.QtCore-postLoad.o
+[2022-04-13T15:57:40.618442 12704] Succeeded getting cached result
+[2022-04-13T15:57:40.618442 12704] Result: cache hit (direct)
+[2022-04-13T15:57:40.619441 12704] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-04-13T15:57:40.619441 13780] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:40.619441 13780] Config: (default) base_dir = 
+[2022-04-13T15:57:40.619441 13780] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:40.619441 13780] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:40.619441 13780] Config: (default) compiler = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:40.619441 13780] Config: (default) compression = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) compression_level = 6
+[2022-04-13T15:57:40.619441 13780] Config: (default) cpp_extension = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) debug = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) depend_mode = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) direct_mode = true
+[2022-04-13T15:57:40.619441 13780] Config: (default) disable = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) hard_link = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) hash_dir = true
+[2022-04-13T15:57:40.619441 13780] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:40.619441 13780] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:40.619441 13780] Config: (default) max_files = 0
+[2022-04-13T15:57:40.619441 13780] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:40.619441 13780] Config: (default) path = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) prefix_command = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) read_only = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) read_only_direct = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) recache = false
+[2022-04-13T15:57:40.619441 13780] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:40.619441 13780] Config: (default) sloppiness = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) stats = true
+[2022-04-13T15:57:40.619441 13780] Config: (default) temporary_dir = 
+[2022-04-13T15:57:40.619441 13780] Config: (default) umask = 
+[2022-04-13T15:57:40.620441 13780] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-04-13T15:57:40.620441 13780] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:40.620441 13780] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:40.621440 13780] Source file: static_src\MainProgram.c
+[2022-04-13T15:57:40.621440 13780] Object file: static_src\MainProgram.o
+[2022-04-13T15:57:40.621440 13780] Trying direct lookup
+[2022-04-13T15:57:40.622439 13780] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/4/5c35137543dce983f5bc8722b43586-26671.manifest
+[2022-04-13T15:57:40.650423 15232] Got object file hash from manifest
+[2022-04-13T15:57:40.658419 12704] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-04-13T15:57:40.668413 15232] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/0fb70aa8e327df516adaa239991c24-615029.o to module.PyQt5.o (uncompressed)
+[2022-04-13T15:57:40.670412 15232] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/0fb70aa8e327df516adaa239991c24-615029.o -> module.PyQt5.o
+[2022-04-13T15:57:40.674410 15232] Succeeded getting cached result
+[2022-04-13T15:57:40.674410 15232] Result: cache hit (direct)
+[2022-04-13T15:57:40.675409 15232] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-04-13T15:57:40.692406 15232] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-04-13T15:57:40.694398 10396] Got object file hash from manifest
+[2022-04-13T15:57:40.708390 10396] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/2/673beefbf62f9bd6cba132d0b01a80-561718.o to module.__main__.o (uncompressed)
+[2022-04-13T15:57:40.708390 10396] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/2/673beefbf62f9bd6cba132d0b01a80-561718.o -> module.__main__.o
+[2022-04-13T15:57:40.717386 10396] Succeeded getting cached result
+[2022-04-13T15:57:40.719389 10396] Result: cache hit (direct)
+[2022-04-13T15:57:40.720384 10396] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-04-13T15:57:40.738374 10396] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-04-13T15:57:40.778352 9280 ] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) base_dir = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) compiler = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) compression = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) compression_level = 6
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) cpp_extension = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) debug = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) depend_mode = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) direct_mode = true
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) disable = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) hard_link = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) hash_dir = true
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:40.778352 9280 ] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) max_files = 0
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) path = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) prefix_command = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) read_only = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) read_only_direct = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) recache = false
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) sloppiness = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) stats = true
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) temporary_dir = 
+[2022-04-13T15:57:40.778352 9280 ] Config: (default) umask = 
+[2022-04-13T15:57:40.779351 9280 ] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-04-13T15:57:40.780353 9280 ] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:40.780353 9280 ] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:40.781350 9280 ] Source file: static_src\CompiledCellType.c
+[2022-04-13T15:57:40.781350 9280 ] Object file: static_src\CompiledCellType.o
+[2022-04-13T15:57:40.782350 9280 ] Trying direct lookup
+[2022-04-13T15:57:40.782350 9280 ] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/87436a2d57a19a5c2825fc0db3d966-7974.manifest
+[2022-04-13T15:57:40.863302 14224] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:40.863302 14224] Config: (default) base_dir = 
+[2022-04-13T15:57:40.863302 14224] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:40.863302 14224] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:40.863302 14224] Config: (default) compiler = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:40.863302 14224] Config: (default) compression = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) compression_level = 6
+[2022-04-13T15:57:40.863302 14224] Config: (default) cpp_extension = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) debug = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) depend_mode = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) direct_mode = true
+[2022-04-13T15:57:40.863302 14224] Config: (default) disable = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) hard_link = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) hash_dir = true
+[2022-04-13T15:57:40.863302 14224] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:40.863302 14224] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:40.863302 14224] Config: (default) max_files = 0
+[2022-04-13T15:57:40.863302 14224] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:40.863302 14224] Config: (default) path = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) prefix_command = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) read_only = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) read_only_direct = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) recache = false
+[2022-04-13T15:57:40.863302 14224] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:40.863302 14224] Config: (default) sloppiness = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) stats = true
+[2022-04-13T15:57:40.863302 14224] Config: (default) temporary_dir = 
+[2022-04-13T15:57:40.863302 14224] Config: (default) umask = 
+[2022-04-13T15:57:40.865301 14224] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-04-13T15:57:40.865301 14224] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:40.865301 14224] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:40.866300 14224] Source file: static_src\CompiledFunctionType.c
+[2022-04-13T15:57:40.866300 14224] Object file: static_src\CompiledFunctionType.o
+[2022-04-13T15:57:40.866300 14224] Trying direct lookup
+[2022-04-13T15:57:40.867300 14224] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/d/c43dfc74832cbe8bd7b70596c4901a-78955.manifest
+[2022-04-13T15:57:40.973243 9280 ] Got object file hash from manifest
+[2022-04-13T15:57:40.987231 9280 ] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/8/b3b4370cc9744b37a8ceb51fe1d465-548368.o to static_src\CompiledCellType.o (uncompressed)
+[2022-04-13T15:57:40.987231 9280 ] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/8/b3b4370cc9744b37a8ceb51fe1d465-548368.o -> static_src\CompiledCellType.o
+[2022-04-13T15:57:40.988231 9280 ] Succeeded getting cached result
+[2022-04-13T15:57:40.988231 9280 ] Result: cache hit (direct)
+[2022-04-13T15:57:40.989230 9280 ] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-04-13T15:57:41.022212 13356] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:41.022212 13356] Config: (default) base_dir = 
+[2022-04-13T15:57:41.022212 13356] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:41.022212 13356] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:41.022212 13356] Config: (default) compiler = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:41.022212 13356] Config: (default) compression = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) compression_level = 6
+[2022-04-13T15:57:41.022212 13356] Config: (default) cpp_extension = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) debug = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) depend_mode = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) direct_mode = true
+[2022-04-13T15:57:41.022212 13356] Config: (default) disable = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) hard_link = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) hash_dir = true
+[2022-04-13T15:57:41.022212 13356] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:41.022212 13356] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:41.022212 13356] Config: (default) max_files = 0
+[2022-04-13T15:57:41.022212 13356] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:41.022212 13356] Config: (default) path = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) prefix_command = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) read_only = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) read_only_direct = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) recache = false
+[2022-04-13T15:57:41.022212 13356] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:41.022212 13356] Config: (default) sloppiness = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) stats = true
+[2022-04-13T15:57:41.022212 13356] Config: (default) temporary_dir = 
+[2022-04-13T15:57:41.022212 13356] Config: (default) umask = 
+[2022-04-13T15:57:41.023210 13356] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-04-13T15:57:41.023210 13356] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:41.023210 13356] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:41.025211 13356] Source file: static_src\CompiledGeneratorType.c
+[2022-04-13T15:57:41.025211 13356] Object file: static_src\CompiledGeneratorType.o
+[2022-04-13T15:57:41.025211 13356] Trying direct lookup
+[2022-04-13T15:57:41.026209 13356] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/f/d092d068fb9a35107e9e529969afc0-57404.manifest
+[2022-04-13T15:57:41.038202 9280 ] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-04-13T15:57:41.060189 14224] Got object file hash from manifest
+[2022-04-13T15:57:41.075181 14224] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/3/6bc0dbf87e2a9ed9494075a7b30b88-626433.o to static_src\CompiledFunctionType.o (uncompressed)
+[2022-04-13T15:57:41.076180 14224] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/3/6bc0dbf87e2a9ed9494075a7b30b88-626433.o -> static_src\CompiledFunctionType.o
+[2022-04-13T15:57:41.077179 14224] Succeeded getting cached result
+[2022-04-13T15:57:41.077179 14224] Result: cache hit (direct)
+[2022-04-13T15:57:41.078179 14224] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-04-13T15:57:41.106163 14224] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-04-13T15:57:41.226095 13356] Got object file hash from manifest
+[2022-04-13T15:57:41.238092 13356] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/2/68dfc674a2cb845ffed0525fd9ffea-755976.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2022-04-13T15:57:41.239091 13356] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/2/68dfc674a2cb845ffed0525fd9ffea-755976.o -> static_src\CompiledGeneratorType.o
+[2022-04-13T15:57:41.243085 13356] Succeeded getting cached result
+[2022-04-13T15:57:41.243085 13356] Result: cache hit (direct)
+[2022-04-13T15:57:41.244084 13356] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-04-13T15:57:41.262074 13356] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-04-13T15:57:42.388285 14644] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:42.388285 14644] Config: (default) base_dir = 
+[2022-04-13T15:57:42.388285 14644] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:42.388285 14644] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:42.388285 14644] Config: (default) compiler = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:42.388285 14644] Config: (default) compression = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) compression_level = 6
+[2022-04-13T15:57:42.388285 14644] Config: (default) cpp_extension = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) debug = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) depend_mode = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) direct_mode = true
+[2022-04-13T15:57:42.388285 14644] Config: (default) disable = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) hard_link = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) hash_dir = true
+[2022-04-13T15:57:42.388285 14644] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:42.388285 14644] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:42.388285 14644] Config: (default) max_files = 0
+[2022-04-13T15:57:42.388285 14644] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:42.388285 14644] Config: (default) path = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) prefix_command = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) read_only = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) read_only_direct = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) recache = false
+[2022-04-13T15:57:42.388285 14644] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:42.388285 14644] Config: (default) sloppiness = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) stats = true
+[2022-04-13T15:57:42.388285 14644] Config: (default) temporary_dir = 
+[2022-04-13T15:57:42.388285 14644] Config: (default) umask = 
+[2022-04-13T15:57:42.389285 14644] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2022-04-13T15:57:42.389285 14644] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:42.389285 14644] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:42.390284 14644] Source file: static_src\CompiledCodeHelpers.c
+[2022-04-13T15:57:42.390284 14644] Object file: static_src\CompiledCodeHelpers.o
+[2022-04-13T15:57:42.390284 14644] Trying direct lookup
+[2022-04-13T15:57:42.391283 14644] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/c/87e4706cee102439a9db7f250de77b-55522.manifest
+[2022-04-13T15:57:42.427262 13400] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:42.427262 13400] Config: (default) base_dir = 
+[2022-04-13T15:57:42.427262 13400] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:42.427262 13400] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:42.427262 13400] Config: (default) compiler = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:42.427262 13400] Config: (default) compression = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) compression_level = 6
+[2022-04-13T15:57:42.427262 13400] Config: (default) cpp_extension = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) debug = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) depend_mode = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) direct_mode = true
+[2022-04-13T15:57:42.427262 13400] Config: (default) disable = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) hard_link = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) hash_dir = true
+[2022-04-13T15:57:42.427262 13400] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:42.427262 13400] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:42.427262 13400] Config: (default) max_files = 0
+[2022-04-13T15:57:42.427262 13400] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:42.427262 13400] Config: (default) path = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) prefix_command = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) read_only = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) read_only_direct = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) recache = false
+[2022-04-13T15:57:42.427262 13400] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:42.427262 13400] Config: (default) sloppiness = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) stats = true
+[2022-04-13T15:57:42.427262 13400] Config: (default) temporary_dir = 
+[2022-04-13T15:57:42.427262 13400] Config: (default) umask = 
+[2022-04-13T15:57:42.428262 13400] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-04-13T15:57:42.428262 13400] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:42.429262 13400] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:42.430263 13400] Source file: static_src\InspectPatcher.c
+[2022-04-13T15:57:42.430263 13400] Object file: static_src\InspectPatcher.o
+[2022-04-13T15:57:42.430263 13400] Trying direct lookup
+[2022-04-13T15:57:42.431262 13400] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/47c668725de773e5c9c49619908ccf-13638.manifest
+[2022-04-13T15:57:42.469237 13328] === CCACHE 3.7.12 STARTED =========================================
+[2022-04-13T15:57:42.469237 13328] Config: (default) base_dir = 
+[2022-04-13T15:57:42.469237 13328] Config: (environment) cache_dir = C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-13T15:57:42.469237 13328] Config: (default) cache_dir_levels = 2
+[2022-04-13T15:57:42.469237 13328] Config: (default) compiler = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) compiler_check = mtime
+[2022-04-13T15:57:42.469237 13328] Config: (default) compression = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) compression_level = 6
+[2022-04-13T15:57:42.469237 13328] Config: (default) cpp_extension = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) debug = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) depend_mode = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) direct_mode = true
+[2022-04-13T15:57:42.469237 13328] Config: (default) disable = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) extra_files_to_hash = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) hard_link = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) hash_dir = true
+[2022-04-13T15:57:42.469237 13328] Config: (default) ignore_headers_in_manifest = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) keep_comments_cpp = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) limit_multiple = 0.8
+[2022-04-13T15:57:42.469237 13328] Config: (environment) log_file = D:\MSCam_Processing\out\start.build\ccache-14104.txt
+[2022-04-13T15:57:42.469237 13328] Config: (default) max_files = 0
+[2022-04-13T15:57:42.469237 13328] Config: (default) max_size = 5.0G
+[2022-04-13T15:57:42.469237 13328] Config: (default) path = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) pch_external_checksum = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) prefix_command = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) prefix_command_cpp = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) read_only = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) read_only_direct = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) recache = false
+[2022-04-13T15:57:42.469237 13328] Config: (default) run_second_cpp = true
+[2022-04-13T15:57:42.469237 13328] Config: (default) sloppiness = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) stats = true
+[2022-04-13T15:57:42.469237 13328] Config: (default) temporary_dir = 
+[2022-04-13T15:57:42.469237 13328] Config: (default) umask = 
+[2022-04-13T15:57:42.470237 13328] Command line: C:\Users\nice\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=170 -D_NUITKA_EXE -ID:\Anaconda3\envs\QT5\include -I. -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\include -ID:\ANACON~1\envs\QT5\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2022-04-13T15:57:42.470237 13328] Hostname: DESKTOP-BBEDVH4
+[2022-04-13T15:57:42.470237 13328] Working directory: D:\MSCam_Processing\out\start.build
+[2022-04-13T15:57:42.471236 13328] Source file: static_src\MetaPathBasedLoader.c
+[2022-04-13T15:57:42.471236 13328] Object file: static_src\MetaPathBasedLoader.o
+[2022-04-13T15:57:42.471236 13328] Trying direct lookup
+[2022-04-13T15:57:42.472237 13328] Looking for object file hash in C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/d/e19496e95b023badf2134d9abe32a8-53897.manifest
+[2022-04-13T15:57:42.539197 13780] Got object file hash from manifest
+[2022-04-13T15:57:42.553189 13780] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/5/de858566f28b1843a670d2a8fd480e-3919148.o to static_src\MainProgram.o (uncompressed)
+[2022-04-13T15:57:42.555188 13780] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/5/de858566f28b1843a670d2a8fd480e-3919148.o -> static_src\MainProgram.o
+[2022-04-13T15:57:42.568184 13780] Succeeded getting cached result
+[2022-04-13T15:57:42.568184 13780] Result: cache hit (direct)
+[2022-04-13T15:57:42.570181 13780] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-04-13T15:57:42.602161 13780] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-04-13T15:57:42.620151 13400] Got object file hash from manifest
+[2022-04-13T15:57:42.632145 13400] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/afd757400f5e02c44d173068f610d1-554366.o to static_src\InspectPatcher.o (uncompressed)
+[2022-04-13T15:57:42.632145 13400] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/afd757400f5e02c44d173068f610d1-554366.o -> static_src\InspectPatcher.o
+[2022-04-13T15:57:42.634144 13400] Succeeded getting cached result
+[2022-04-13T15:57:42.634144 13400] Result: cache hit (direct)
+[2022-04-13T15:57:42.635144 13400] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-04-13T15:57:42.659129 13400] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-04-13T15:57:42.874006 13328] Got object file hash from manifest
+[2022-04-13T15:57:42.884003 13328] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/9/84ed0b4530d961fb8c35f4060000df-3945229.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2022-04-13T15:57:42.885002 13328] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/9/84ed0b4530d961fb8c35f4060000df-3945229.o -> static_src\MetaPathBasedLoader.o
+[2022-04-13T15:57:42.887002 13328] Succeeded getting cached result
+[2022-04-13T15:57:42.887002 13328] Result: cache hit (direct)
+[2022-04-13T15:57:42.888004 13328] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-04-13T15:57:42.895996 13328] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-04-13T15:57:42.920985 14644] Got object file hash from manifest
+[2022-04-13T15:57:42.934971 14644] Copying C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/d7029b3026151c95f14354fee113eb-5836545.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2022-04-13T15:57:42.937969 14644] Created from cache: C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/d7029b3026151c95f14354fee113eb-5836545.o -> static_src\CompiledCodeHelpers.o
+[2022-04-13T15:57:42.938969 14644] Succeeded getting cached result
+[2022-04-13T15:57:42.938969 14644] Result: cache hit (direct)
+[2022-04-13T15:57:42.939967 14644] Acquired lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-04-13T15:57:42.946965 14644] Releasing lock C:\Users\nice\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
